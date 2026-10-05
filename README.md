@@ -1,1 +1,1 @@
-# Email-verifier1222
+Linkedin Sales Navigator Extension
